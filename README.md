@@ -1,4 +1,5 @@
 # GitHubShite
+https://github.com/WhiteWasteOfSpace/GitHubShite.git
 Literally just for school, why god
 
 According to all known laws
