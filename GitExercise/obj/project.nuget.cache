@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A7ZP/JRFyVYBGWPgo50jXBk6no5xpHWMWmds7/PXZfp3PKruca8edohPTCVUFFKCMu1O/uPr/iNDrJjPlAiKsA==",
+  "dgSpecHash": "s2iQhDUABdGYRa8okoDWzY+nH/J4Aj+TEwXzzZh8vgK8Dyv6MZoyswtwA8Obv3SXst9Pht271ozWG5eP5zeazQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC-03\\Desktop\\GitHubShite\\GitExercise\\GitExercise.csproj",
+  "projectFilePath": "C:\\Users\\PC-03\\Desktop\\WhyGod\\GitHubShite\\GitExercise\\GitExercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC-03\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
     "C:\\Users\\PC-03\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
