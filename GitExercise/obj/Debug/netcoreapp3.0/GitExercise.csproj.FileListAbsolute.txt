@@ -1,0 +1,14 @@
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.exe
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.deps.json
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.json
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.runtimeconfig.dev.json
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\bin\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.AssemblyReference.cache
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfoInputs.cache
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.AssemblyInfo.cs
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.csproj.CoreCompileInputs.cache
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.dll
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.pdb
+C:\Users\PC-03\Desktop\GitHubShite\GitExercise\obj\Debug\netcoreapp3.0\GitExercise.genruntimeconfig.cache
